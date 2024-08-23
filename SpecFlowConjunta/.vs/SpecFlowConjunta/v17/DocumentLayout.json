@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\stepdefinitions\\eliminarstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\features\\eliminar.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\stepdefinitions\\ingresostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\features\\ingreso.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\views\\clientesql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:views\\clientesql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\views\\clientesql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:views\\clientesql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\features\\leer.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\stepdefinitions\\leerstepdefinitionscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\specflowtestitng.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\stepdefinitions\\actualizarstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84502B97-BC92-4489-B9AB-037F8F8EDAB1}|..\\SpecFlowTestitng\\SpecFlowTestitng.csproj|c:\\users\\asus\\source\\repos\\specflowtestitng\\features\\actualizar.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|c:\\users\\asus\\source\\repos\\specflowconjunta\\views\\clientesql\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{357453F3-BCC5-4519-9B37-630E610282A4}|SpecFlowConjunta.csproj|solutionrelative:views\\clientesql\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteSQL\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Create.cshtml",
+              "RelativeToolTip": "Views\\ClienteSQL\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T13:17:25.465Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\EliminarStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\StepDefinitions\\EliminarStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\EliminarStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\StepDefinitions\\EliminarStepDefinitions.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAzwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:27:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngresoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:31:54.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteSQLDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Data\\ClienteSQLDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Data\\ClienteSQLDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Data\\ClienteSQLDataAccessLayer.cs",
+              "RelativeToolTip": "Data\\ClienteSQLDataAccessLayer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:00:22.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eliminar.feature",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Eliminar.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\Features\\Eliminar.feature",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Eliminar.feature",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\Features\\Eliminar.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:51:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingreso.feature",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Ingreso.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\Features\\Ingreso.feature",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Ingreso.feature",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\Features\\Ingreso.feature",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:31:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteSQL\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Index.cshtml",
+              "RelativeToolTip": "Views\\ClienteSQL\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T13:05:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:00:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Leer.feature",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Leer.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\Features\\Leer.feature",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Leer.feature",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\Features\\Leer.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:40:56.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeerStepDefinitionscs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\LeerStepDefinitionscs.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\StepDefinitions\\LeerStepDefinitionscs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\LeerStepDefinitionscs.cs",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\StepDefinitions\\LeerStepDefinitionscs.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:45:34.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecFlowTestitng.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\SpecFlowTestitng.csproj",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\SpecFlowTestitng.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\SpecFlowTestitng.csproj",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\SpecFlowTestitng.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T13:47:58.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActualizarStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\ActualizarStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\StepDefinitions\\ActualizarStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\StepDefinitions\\ActualizarStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\StepDefinitions\\ActualizarStepDefinitions.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAQwJ0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:18:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actualizar.feature",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Actualizar.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTestitng\\Features\\Actualizar.feature",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowTestitng\\Features\\Actualizar.feature",
+              "RelativeToolTip": "..\\SpecFlowTestitng\\Features\\Actualizar.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:50:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteSQLController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Controllers\\ClienteSQLController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteSQLController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Controllers\\ClienteSQLController.cs",
+              "RelativeToolTip": "Controllers\\ClienteSQLController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwFgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:59:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteSQL\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SpecFlowConjunta\\Views\\ClienteSQL\\Details.cshtml",
+              "RelativeToolTip": "Views\\ClienteSQL\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T13:17:02.396Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
